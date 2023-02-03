@@ -1,4 +1,4 @@
-module github.com/answerdev/plugins/connector/google
+module github.com/aichy126/plugins/connector/google
 
 go 1.19
 
